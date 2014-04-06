@@ -1,15 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5141b805-69a2-422f-b151-3ef5766c5122" name="Default" comment="" />
+    <list default="true" id="5141b805-69a2-422f-b151-3ef5766c5122" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/base.html" afterPath="$PROJECT_DIR$/templates/base.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="musicdemo.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/settings.py" changelist="5141b805-69a2-422f-b151-3ef5766c5122" time="1396738444411" ignored="false" />
-    <file path="/Dummy.txt" changelist="5141b805-69a2-422f-b151-3ef5766c5122" time="1396737815829" ignored="false" />
+    <file path="/Dummy.txt" changelist="5141b805-69a2-422f-b151-3ef5766c5122" time="1396814178576" ignored="false" />
     <file path="/local_settings.py" changelist="5141b805-69a2-422f-b151-3ef5766c5122" time="1396737867022" ignored="false" />
     <file path="/requirements.txt" changelist="5141b805-69a2-422f-b151-3ef5766c5122" time="1396738360699" ignored="false" />
     <file path="/urls.py" changelist="5141b805-69a2-422f-b151-3ef5766c5122" time="1396738965616" ignored="false" />
-    <file path="/base.html" changelist="5141b805-69a2-422f-b151-3ef5766c5122" time="1396739904182" ignored="false" />
+    <file path="/base.html" changelist="5141b805-69a2-422f-b151-3ef5766c5122" time="1396814196957" ignored="false" />
     <file path="/calendar.html" changelist="5141b805-69a2-422f-b151-3ef5766c5122" time="1396740022643" ignored="false" />
     <file path="/fabfile.py" changelist="5141b805-69a2-422f-b151-3ef5766c5122" time="1396813570560" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -31,48 +35,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="settings.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/settings.py">
+      <file leaf-file-name="base.html" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/templates/base.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="400" column="36" selection-start="0" selection-end="14463" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="local_settings.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/local_settings.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="50" column="1" selection-start="2093" selection-end="2093" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="urls.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/urls.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="69" column="21" selection-start="2835" selection-end="2835" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="e#0#39#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="requirements.txt" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/requirements.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="23" selection-start="40" selection-end="40" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="fabfile.py" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/fabfile.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="0" selection-start="289" selection-end="289" vertical-scroll-proportion="0.3806344">
+            <state line="48" column="11" selection-start="2007" selection-end="2007" vertical-scroll-proportion="0.34111312">
               <folding />
             </state>
           </provider>
@@ -85,6 +51,14 @@
       <setting name="OPEN_NEW_TAB" value="false" />
     </FindUsagesManager>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitLogSettings">
+    <option name="myDateState">
+      <MyDateState />
+    </option>
+  </component>
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
@@ -95,6 +69,7 @@
         <option value="$PROJECT_DIR$/settings.py" />
         <option value="$PROJECT_DIR$/local_settings.py" />
         <option value="$PROJECT_DIR$/fabfile.py" />
+        <option value="$PROJECT_DIR$/templates/base.html" />
       </list>
     </option>
   </component>
@@ -104,7 +79,7 @@
     <option name="width" value="1350" />
     <option name="height" value="745" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
     <OptionsSetting value="true" id="Checkout" />
@@ -149,6 +124,20 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="musicdemo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="musicdemo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -157,7 +146,7 @@
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="recentsLimit" value="5" />
-    <property name="options.lastSelected" value="com.jetbrains.django.DjangoModulesConfigurable" />
+    <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../envs/mezz3/bin/python" />
     <property name="restartRequiresConfirmation" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
@@ -375,15 +364,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/templates/site_base.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="29" selection-start="724" selection-end="724" vertical-scroll-proportion="0.0">
-          <folding>
-            <marker date="1396735389000" expanded="true" signature="-1:-1" placeholder="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/templates/schedule/calendar.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="5" column="13" selection-start="91" selection-end="95" vertical-scroll-proportion="0.0">
@@ -446,39 +426,46 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/fabfile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="0" selection-start="289" selection-end="289" vertical-scroll-proportion="0.3806344">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/requirements.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="23" selection-start="40" selection-end="40" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="400" column="36" selection-start="0" selection-end="14463" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/local_settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="50" column="1" selection-start="2093" selection-end="2093" vertical-scroll-proportion="0.0">
+        <state line="1" column="23" selection-start="40" selection-end="40" vertical-scroll-proportion="0.031825796">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/urls.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="69" column="21" selection-start="2835" selection-end="2835" vertical-scroll-proportion="0.0">
+        <state line="69" column="21" selection-start="2835" selection-end="2835" vertical-scroll-proportion="0.12897822">
           <folding>
             <element signature="e#0#39#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/fabfile.py">
+    <entry file="file://$PROJECT_DIR$/local_settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="0" selection-start="289" selection-end="289" vertical-scroll-proportion="0.3806344">
+        <state line="50" column="1" selection-start="2093" selection-end="2093" vertical-scroll-proportion="0.77568495">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="400" column="36" selection-start="0" selection-end="14463" vertical-scroll-proportion="12.730318">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/base.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="48" column="11" selection-start="2007" selection-end="2007" vertical-scroll-proportion="0.34111312">
           <folding />
         </state>
       </provider>
