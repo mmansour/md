@@ -2,12 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5141b805-69a2-422f-b151-3ef5766c5122" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="musicdemo.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/settings.py" changelist="5141b805-69a2-422f-b151-3ef5766c5122" time="1396738444411" ignored="false" />
-    <file path="/Dummy.txt" changelist="5141b805-69a2-422f-b151-3ef5766c5122" time="1396883048803" ignored="false" />
+    <file path="/Dummy.txt" changelist="5141b805-69a2-422f-b151-3ef5766c5122" time="1396884544691" ignored="false" />
     <file path="/local_settings.py" changelist="5141b805-69a2-422f-b151-3ef5766c5122" time="1396737867022" ignored="false" />
     <file path="/requirements.txt" changelist="5141b805-69a2-422f-b151-3ef5766c5122" time="1396738360699" ignored="false" />
     <file path="/urls.py" changelist="5141b805-69a2-422f-b151-3ef5766c5122" time="1396738965616" ignored="false" />
@@ -33,31 +34,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="base.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/templates/base.html">
+      <file leaf-file-name=".gitignore" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="57" selection-start="139" selection-end="150" vertical-scroll-proportion="-1.4074074">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="site_base.html" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/templates/site_base.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="22" selection-start="883" selection-end="883" vertical-scroll-proportion="0.6481149">
-              <folding>
-                <element signature="n#style#0;n#p#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <marker date="1396884417000" expanded="true" signature="1237:1256" placeholder="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="base.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/templates/schedule/base.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="50" selection-start="548" selection-end="548" vertical-scroll-proportion="-7.037037">
+            <state line="7" column="6" selection-start="69" selection-end="69" vertical-scroll-proportion="0.22278057">
               <folding />
             </state>
           </provider>
@@ -91,11 +71,12 @@
         <option value="$PROJECT_DIR$/templates/base.html" />
         <option value="$PROJECT_DIR$/templates/schedule/site_base.html" />
         <option value="$PROJECT_DIR$/templates/site_base.html" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="36" />
+    <option name="x" value="41" />
     <option name="y" value="46" />
     <option name="width" value="1350" />
     <option name="height" value="745" />
@@ -141,38 +122,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="musicdemo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="musicdemo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="musicdemo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="templates" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="musicdemo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="musicdemo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="templates" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="schedule" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -321,7 +270,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="36" y="46" width="1350" height="745" extended-state="0" />
+    <frame x="41" y="46" width="1350" height="745" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -438,11 +387,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/fabfile.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="12" column="0" selection-start="289" selection-end="289" vertical-scroll-proportion="0.3806344" />
@@ -483,27 +427,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/schedule/base.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="50" selection-start="548" selection-end="548" vertical-scroll-proportion="-7.037037">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/base.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="57" selection-start="139" selection-end="150" vertical-scroll-proportion="-1.4074074">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/templates/site_base.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="19" column="22" selection-start="883" selection-end="883" vertical-scroll-proportion="0.6481149">
           <folding>
             <element signature="n#style#0;n#p#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <marker date="1396884417000" expanded="true" signature="1237:1256" placeholder="{...}" />
+            <marker date="1396884417000" expanded="true" signature="-1:-1" placeholder="{...}" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/base.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="57" selection-start="139" selection-end="150" vertical-scroll-proportion="0.06822262">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/schedule/base.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="50" selection-start="548" selection-end="548" vertical-scroll-proportion="0.33333334">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="6" selection-start="69" selection-end="69" vertical-scroll-proportion="0.22278057">
+          <folding />
         </state>
       </provider>
     </entry>
